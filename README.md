@@ -10,8 +10,8 @@
 
 ### Overview
 
-* This code demonstrates how to retreive data for different input parameter combinations (square meter and zip code) in an automated way.
-As in this case scenario we are retreiving prices from ![Friday](https://hausratversicherung.friday.de/offer) using python.
+* This code demonstrates how to retreive data for different input parameter combinations i.e.(square meter and zip code).
+As in this case scenario we are retreiving prices from ![Friday](https://hausratversicherung.friday.de/) using python.
 
 
 ### Getting-Started
