@@ -23,8 +23,7 @@ As in this case scenario we are retreiving prices from ![Friday](https://hausrat
 
 ### Description 
 
-* It takes the input from user i.e. area in sq.m & postal code and returns the insurance prices by passing those values
-through the following hosted ![api](https://fdy2-policycenter-production.k8s.blue.friday-prod.de/rest/friday/hc/price?) 
+* It takes the input from user i.e. area in sq.m & postal code and returns the insurance prices by passing those values.
 
 
 ### Approach
